@@ -5,7 +5,7 @@ Data-focused professional with an engineering background, combining Python, SQL,
 
 ---
 
-## About Me
+## ![image alt](https://github.com/DrihanDP/DrihanDP/blob/b2cdc6622217766d77c4fa72ae06eb00907171bb/about_img2.png) About Me
 
 I began my career in engineering, working with real-world data to diagnose and solve technical problems in the field of robotics. This naturally led me into data analysis, where I focused on extracting insights, improving processes, and automating workflows.
 
@@ -24,12 +24,12 @@ Matplotlib, Seaborn, IBM Cognos, Looker Studio, Excel
 ![image alt](https://github.com/DrihanDP/DrihanDP/blob/1a7447529ea209dfad56e50c39d5ca023a294fc7/tools_img2.png) **Tools**  
 GitHub, Azure DevOps  
 
-**Core Skills**  
+![image alt](https://github.com/DrihanDP/DrihanDP/blob/b1b6154b58f6befa35839838641cfb80cb144854/skills_img2.png) **Core Skills**  
 Data cleaning • EDA • Workflow automation • Root cause analysis • Insight communication  
 
 ---
 
-## What I’m Currently Working On
+## ![image alt](https://github.com/DrihanDP/DrihanDP/blob/b2cdc6622217766d77c4fa72ae06eb00907171bb/working_img2.png) What I’m Currently Working On
 
 - Expanding skills in AI and machine learning  
 - Building machine learning and AI projects  
@@ -37,7 +37,7 @@ Data cleaning • EDA • Workflow automation • Root cause analysis • Insigh
 
 ---
 
-## Contact
+## ![image alt](https://github.com/DrihanDP/DrihanDP/blob/b2cdc6622217766d77c4fa72ae06eb00907171bb/contact_img2.png) Contact 
 
 - LinkedIn: https://www.linkedin.com/in/drihandupreez/  
 - GitHub: https://github.com/DrihanDP  
