@@ -15,13 +15,13 @@ I am now building on my engineering foundation by developing strong prospects in
 
 ## Skills & Tools
 
-**Programming & Analysis**  
+![image alt](https://github.com/DrihanDP/DrihanDP/blob/1a7447529ea209dfad56e50c39d5ca023a294fc7/python_img2.png) **Programming & Analysis**  
 Python (Pandas, NumPy), SQL, Jupyter Notebook  
 
-**Data Visualisation**  
+![image alt](https://github.com/DrihanDP/DrihanDP/blob/1a7447529ea209dfad56e50c39d5ca023a294fc7/graph_img2.png) **Data Visualisation**  
 Matplotlib, Seaborn, IBM Cognos, Looker Studio, Excel  
 
-**Tools**  
+![image alt](https://github.com/DrihanDP/DrihanDP/blob/1a7447529ea209dfad56e50c39d5ca023a294fc7/tools_img2.png) **Tools**  
 GitHub, Azure DevOps  
 
 **Core Skills**  
