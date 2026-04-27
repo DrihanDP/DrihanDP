@@ -1,5 +1,5 @@
 # Drihan du Preez  
-**Data Analyst | Mechanical Engineer → Data Analyst/Data Science | AI/ML**
+![image alt](https://github.com/DrihanDP/DrihanDP/blob/82626861d007f3ca68b38c0371a4b476639119e1/data_img2.png) **Data Analyst | Mechanical Engineer → Data Analyst/Data Science | AI/ML**
 
 Data-focused professional with an engineering background, combining Python, SQL, and growing expertise in AI and machine learning to analyse data, automate workflows, and deliver practical, business-driven insights. Actively developing and applying AI/ML skills through projects and continued learning.
 
