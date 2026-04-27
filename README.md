@@ -33,4 +33,4 @@ Data cleaning • EDA • Workflow automation • Root cause analysis • Insigh
 
 - Expanding skills in AI and machine learning  
 - Building machine learning and AI projects  
-- Developing end-to-end analytics projects (data → insights → dashboards)  
+- Developing end-to-end analytics projects (see pinned repos)
